@@ -7,7 +7,7 @@ This is my portfolio for Data Science and Analytics.
 
 Every year, the developers of the online video game Warframe do a year-end divulgence of what players have been using in their missions. I decided to try my hand at analyzing the data using Python's pandas library. I then plotted my findings using Plotly.
 
-##Data Engineering
+## Data Engineering
 ### CoupBot Data Engineering Project
 [Github Link](https://github.com/Jlevy0/CoupBot-Data-Engineering-Project)
 
