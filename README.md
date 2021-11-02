@@ -12,3 +12,8 @@ Every year, the developers of the online video game Warframe do a year-end divul
 [Github Link](https://github.com/Jlevy0/CoupBot-Data-Engineering-Project)
 
 Utilizing Apache Airflow, I set up and automated a process that takes the data generated from the CoupBot Discord server and uploads it to a local PSQL server, where it can easy be analyzed. 
+
+### Epic Games Store Scraper and Embed Poster
+[Github Link](https://github.com/Jlevy0/Epic-Games-Store-Scraper-and-Embed-Poster)
+
+An automated web scraping pipeline that checks the Epic Games Store for free games. If one is found, it posts the store link to a Discord server in the form of an embed.
